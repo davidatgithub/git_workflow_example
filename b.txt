@@ -2,4 +2,4 @@ new file
 new changes
 change in master
 yet another change in master
-conflicting task 2
+conflicting task 1 & 2 fixed
