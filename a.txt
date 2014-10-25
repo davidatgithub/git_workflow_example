@@ -2,5 +2,5 @@ new file
 David's feature part 1
 David's feature part 2 - Yes, super Jan fixed it like this :)
 
-David's feature 2 part 1
-David's feature 2 part 2
+David's feature 2 part 1, Jan's development on master part 1, not conflicting with Daves branch
+David's feature 2 part 2, Jan's development on master part 2, not conflicting with Daves branch
