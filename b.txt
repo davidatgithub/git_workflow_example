@@ -7,4 +7,5 @@ hakan keeps developing master..
 daves-feature-3 part 1
 daves-feature-3 part 2 jans conflicting to dave 3 resolved
 daves-feature-3 part 3 finish!
-Jans huge conflicting changes on master
+Daves HUGE feature 4
+Jans huge not conflicting changes on master
