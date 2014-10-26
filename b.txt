@@ -4,6 +4,6 @@ change in master
 yet another change in master
 conflicting task 1 & 2 fixed
 hakan keeps developing master..
-daves-feature-3 jans conflicting to dave 3 resolved for this task only
-
+daves-feature-3 part 1
+daves-feature-3 part 2 jans conflicting to dave 3 resolved
 
