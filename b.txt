@@ -4,3 +4,4 @@ change in master
 yet another change in master
 conflicting task 1 & 2 fixed
 hakan keeps developing master..
+jans conflicting to dave 3
