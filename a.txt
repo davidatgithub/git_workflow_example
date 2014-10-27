@@ -8,3 +8,13 @@ David's feature 2 part 2, Jan's development on master part 2, not conflicting wi
 And Jan adds to David's feature 2
 Jans huge no more conflicting changes on master
 Daves HUGE feature 4
+
+Hakans F1 part 1
+Dave f3 part 1
+Dave f3 part 2
+Hakans F1 part 2
+Jans F2 part 1
+Jans F2 part 2
+
+Hakan prepares for release to Master - part 1
+Hakan prepares for release to Master - part 2
