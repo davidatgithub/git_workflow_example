@@ -1,0 +1,8 @@
+Note: there is no d.txt
+
+Multiple Choice: If you choose an answer to this question at random, what is the chance you will be correct? 
+A) 25% 
+B) 50% 
+C) 60% 
+D) 25%
+
