@@ -21,4 +21,4 @@ Antti new feature say YES!!!
 Leaving empty line above for positive features, which have now magically appeared there and filled the line.
 
 
-Antti connects from virtusal serfv3et and whrite bad
+Antti connects from virtual server and writes bad, but then later corrects it.
