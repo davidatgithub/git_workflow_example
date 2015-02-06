@@ -22,3 +22,5 @@ Leaving empty line above for positive features, which have now magically appeare
 
 
 Antti connects from virtual server and writes bad, but then later corrects it.
+
+addition to test Jenkins automatic polling and building on VPS129997
