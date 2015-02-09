@@ -1,0 +1,26 @@
+new file
+new changes
+change in master
+yet another change in master
+conflicting task 1 & 2 fixed
+hakan keeps developing master..
+daves-feature-3 part 1
+daves-feature-3 part 2 jans conflicting to dave 3 resolved
+daves-feature-3 part 3 finish!
+Daves HUGE feature 4
+Jans huge not conflicting changes on master
+
+Hakans F1 part 1
+Dave f3 part 1
+Dave f3 part 2
+Hakans F1 part 1
+Jans F2 part 1
+Jans F2 part 2
+Antti does some change, hopes no conflict
+Antti new feature say YES!!!
+Leaving empty line above for positive features, which have now magically appeared there and filled the line.
+
+
+Antti connects from virtual server and writes bad, but then later corrects it.
+
+addition to test Jenkins automatic polling and building on VPS129997
