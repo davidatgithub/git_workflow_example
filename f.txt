@@ -2,3 +2,5 @@ Totally new functionality.
 
 Question 1: If you clap with one hand in the forest, does anyone hear the tree fall?
 Question 2: Same as above, but suppose the fridge door is closed?
+
+I know all the answers!
